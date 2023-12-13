@@ -1,0 +1,4 @@
+#Wed Dec 13 20:10:04 EAT 2023
+base.0=/Users/brianlumala/Documents/GitHub/flutter_weather_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
